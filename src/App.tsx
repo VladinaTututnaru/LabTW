@@ -10,6 +10,7 @@ function App() {
     window.location.reload();
   }
 
+
   return (
     <div className="App">
         <LayoutContent
